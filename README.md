@@ -12,11 +12,10 @@ A simple timer (count's seconds down) created with Flutter
 
 * https://files.mike-nussbaumer.com/Usage2.gif
 
-<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot1.PNG" height=500>
-<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot2.PNG" height=500>
-<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot3.PNG" height=500>
-<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot4.PNG" height=500>
-<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot5.PNG" height=500>
+<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot1.PNG?token=ApskhBMXPIonAh_PmoAOmeIx-q7JFPREks5cwJzvwA%3D%3D" height=500> 
+<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot3.PNG?token=ApskhNdxxS2mk-Lz53txy62pUk3Cmbegks5cwJ1twA%3D%3D" height=500>
+<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot4.PNG?token=ApskhBbZB4PzEz9jPWap7skhILhlAFlaks5cwJ19wA%3D%3D" height=500>
+<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot5.PNG?token=ApskhHfhycppQkKzKmbX8XicUC7HdcXGks5cwJ2OwA%3D%3D" height=500>
 
 ## Getting Started 
 
