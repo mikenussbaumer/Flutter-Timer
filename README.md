@@ -9,7 +9,8 @@ A simple timer (count's seconds down) created with Flutter
 - [ ] Save timers in DB 📝
 
 ## Showcase 🎀
-<img src="https://files.mike-nussbaumer.com/Usage2.gif" height=600/>
+
+* https://files.mike-nussbaumer.com/Usage2.gif
 
 ## Getting Started 
 
