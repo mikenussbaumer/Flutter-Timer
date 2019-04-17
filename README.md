@@ -12,6 +12,12 @@ A simple timer (count's seconds down) created with Flutter
 
 * https://files.mike-nussbaumer.com/Usage2.gif
 
+<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot1.PNG" height=500>
+<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot2.PNG" height=500>
+<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot3.PNG" height=500>
+<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot4.PNG" height=500>
+<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot5.PNG" height=500>
+
 ## Getting Started 
 
 This project is a starting point for a Flutter application.
