@@ -1,8 +1,17 @@
-# workout
+# Flutter Timer
 
-A new Flutter project.
+A simple timer (count's seconds down) created with Flutter
 
-## Getting Started
+## Todo 📌
+
+- [ ] Add Notifications when timer is finished ✅
+- [ ] Add other wave styles (customization settings) ⚙️
+- [ ] Save timers in DB 📝
+
+## Showcase 🎀
+<img src="https://files.mike-nussbaumer.com/Usage2.gif" height=600/>
+
+## Getting Started 
 
 This project is a starting point for a Flutter application.
 

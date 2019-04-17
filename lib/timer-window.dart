@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fluid_slider/flutter_fluid_slider.dart';
 import 'dart:async';
-import './progress_painter.dart';
 import 'package:wave/wave.dart';
 import 'package:wave/config.dart';
 
@@ -15,8 +13,8 @@ class TimerScreen extends StatefulWidget {
 }
 
 class _TimerScreenState extends State<TimerScreen> {
-  double _counter = 0;
   Timer _timer;
+  double _counter = 0;
   bool _timerStarted = false;
 
   void startTimer() {
@@ -36,6 +34,10 @@ class _TimerScreenState extends State<TimerScreen> {
     }
   }
 
+  void stopTimer() {
+    _timer.cancel();
+  }
+
   @override
   void initState() {
     super.initState();
@@ -45,13 +47,13 @@ class _TimerScreenState extends State<TimerScreen> {
   @override
   void dispose() {
     super.dispose();
-    _timer.cancel();
+    stopTimer();
   }
 
   @override
   void deactivate() {
     super.deactivate();
-    _timer.cancel();
+    stopTimer();
   }
 
   @override
@@ -61,7 +63,7 @@ class _TimerScreenState extends State<TimerScreen> {
         body: Stack(
           children: <Widget>[
             Center(
-                child: Padding(
+              child: Padding(
               padding: const EdgeInsets.only(top: 100.0),
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.start,
